@@ -68,18 +68,19 @@ clean_data <- data %>%
 ![Untitled](https://github.com/user-attachments/assets/5f321e87-168d-448e-a47b-4987014d3972)
 ![Untitled (1)](https://github.com/user-attachments/assets/b19d1fc3-91c2-4cc3-b0e1-282b008811aa)
 
-1. High Correlation Group (Type 1)
+1. High Correlation Group (Type 1) -> Travel destinations with **tourism roads, street trees, and museums/art galleries** have the highest travel expenditures, visitor numbers, and search volumes.
    - Tourism Roads (Search: 0.93, Visitors: 0.92)
    - Street Trees
    - Museums/Art Galleries
 
-2. Medium Correlation Group (Type 2)
+3. Medium Correlation Group (Type 2) -> Travel destinations with **Amusement Facilities, Specialized Streets, Cultural Festivals and Performance Events** have the modest travel expenditures, visitor numbers, and search volumes.
    - Amusement Facilities
    - Specialized Streets
    - Cultural Festivals
    - Performance Events
 
-3. Low Correlation Group (Type 3)
+4. Low Correlation Group (Type 3) -> Travel destinations with **Cultural Heritage Sites, Accommodation, Recreational Forests** have the
+   lowest travel expenditures, visitor numbers, and search volumes. 
    - Cultural Heritage Sites
    - Accommodation
    - Recreational Forests
