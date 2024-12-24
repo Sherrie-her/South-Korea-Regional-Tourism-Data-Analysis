@@ -65,6 +65,8 @@ clean_data <- data %>%
 ## Key Findings
 
 ### Correlation Analysis Results
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f16f0403-3648-45b5-b5ca-0078a606a6f2/af4c4974-d359-48ea-8201-f4369318b648/Untitled.png)
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f16f0403-3648-45b5-b5ca-0078a606a6f2/0c43b9a5-4e37-4f85-94d6-d6bb647d3332/Untitled.png)
 1. High Correlation Group (Type 1)
    - Tourism Roads (Search: 0.93, Visitors: 0.92)
    - Street Trees
