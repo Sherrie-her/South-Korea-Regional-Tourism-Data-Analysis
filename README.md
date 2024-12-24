@@ -148,17 +148,27 @@ clean_data <- data %>%
 ## Project Structure
 ```
 project/
+├── project.Rproj
+├── analysis.Rmd
 ├── data/
-│   ├── raw/
-│   │   ├── tourism_data/
-│   │   └── regional_data/
-│   └── processed/
-├── analysis/
-│   ├── preprocessing/
-│   ├── correlation/
-│   └── visualization/
-├── results/
-└── documentation/
+│   ├── factors/
+│   │   ├── Accommodation.csv          # Accommodation facilities data
+│   │   ├── Cultural Festival.csv      # Cultural festival information
+│   │   ├── Garosu_Gil.csv            # Tree-lined streets data
+│   │   ├── Museum.csv                 # Museums and art galleries
+│   │   ├── Performance.csv            # Performance venues and events
+│   │   ├── Recreational_forest.csv    # Forest recreation areas
+│   │   ├── SouthKorea_road.csv       # Tourism roads data
+│   │   ├── Specific_Road.csv         # Specialized streets info
+│   │   ├── Traditional_heritage.csv   # Cultural heritage sites
+│   │   └── Waterpark.csv             # Water parks and facilities
+│   └── criteria/
+│       ├── exp+vis+search.csv         # Expenditure, visitors, search data
+│       └── Profit+Number of tourists.csv # Tourism profit and visitor numbers
+├── docs/
+│   └── README.md
+└── results/
+   └── visualizations/
 ```
 
 ## Getting Started
