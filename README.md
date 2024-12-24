@@ -58,7 +58,7 @@ clean_data <- data %>%
 
 ### Analysis Methods
 1. Regional distribution analysis
-2. Correlation analysis with tourist numbers
+2. Correlation analysis with Expenditure/Visitor/Search data (Travel Expenditure / Vistior Number / Number of searches )
 3. Statistical significance testing
 4. Regional comparison using visualization
 
