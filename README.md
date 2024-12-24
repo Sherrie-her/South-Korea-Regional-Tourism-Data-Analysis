@@ -125,6 +125,8 @@ clean_data <- data %>%
    - Develop nature-based tourism
    - Improve accessibility features
 
++ Please refer to the document for other Provinces
+
 ## Limitations
 1. Temporal misalignment of datasets
 2. External factors not considered (transportation, climate)
