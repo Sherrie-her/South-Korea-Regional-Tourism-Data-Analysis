@@ -57,10 +57,36 @@ clean_data <- data %>%
 ```
 
 ### Analysis Methods
-1. Regional distribution analysis
-2. Correlation analysis with Expenditure/Visitor/Search data (Travel Expenditure / Vistior Number / Number of searches )
-3. Statistical significance testing
-4. Regional comparison using visualization
+1. Regional Distribution Analysis
+- Classified tourism elements into 10 categories across 17 regions
+- Calculated percentage distribution of each element by region
+- Used pie charts and bar plots to visualize regional proportions
+- Identified regional concentration patterns for each tourism element
+
+2. Correlation Analysis 
+- Variables analyzed:
+  - Travel Expenditure (₩)
+  - Visitor Numbers
+  - Search Volume (Naver DataLab data)
+- Used Pearson correlation coefficients
+- Created correlation matrix visualizations
+- Identified three correlation groups:
+  - High (r > 0.7): Tourism roads, street trees, museums
+  - Medium (0.4 < r < 0.7): Amusement facilities, festivals
+  - Low (r < 0.4): Heritage sites, accommodation
+
+3. Statistical Significance Testing
+- Conducted t-tests for correlation coefficients
+- Tested null hypothesis of no correlation
+- Used p < 0.05 significance level
+- Verified strength of relationships between variables
+
+4. Regional Comparison Visualization
+- Created regional distribution maps
+- Generated percentage-based bar charts comparing regions
+- Used heatmaps for correlation visualization
+- Developed comparative pie charts showing tourism element mix by region
+- Made bar plots showing relative proportions of tourism elements
 
 ## Key Findings
 
