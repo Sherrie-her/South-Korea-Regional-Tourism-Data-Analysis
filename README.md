@@ -1,7 +1,5 @@
 # South-Korea-Regional-Tourism-Data-Analysis
 
-# Regional Tourism Analysis Project
-
 [For detailed analysis and complete results, visit our project documentation](https://hazel-grass-f77.notion.site/Project_4-93b08aaf0e0d406dba7ba6b90f4ac6d8)
 
 ## Team Members
